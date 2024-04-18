@@ -8,3 +8,7 @@ console.log(undefined>0);
 console.log(undefined<0);
 console.log(undefined==0);
 
+
+console.log(typeof null);   //Object
+
+console.log(typeof undefined);      //undefined
